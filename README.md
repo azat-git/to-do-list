@@ -3,7 +3,7 @@
 Это простое веб-приложение на Flask, которое позволяет пользователям добавлять и удалять элементы в базе данных SQLite через веб-интерфейс.
 
 ## Интерфейс
-![alt text](https://github.com/azat-git/to-do-list.git)
+![alt text](https://github.com/azat-git/to-do-list/blob/master/ui/ui.png)
 
 
 ## Особенности
